@@ -1,0 +1,17 @@
+dremio:
+  host: 
+  username:
+  password:
+  objectstore:
+  requesttable:
+  sampletable:
+smile:
+  url:
+  certpath:
+  keypath:
+  consumer:
+  password:
+  subject:
+  newrequestfilter:
+  updaterequestfilter:
+  updatesamplefilter:
